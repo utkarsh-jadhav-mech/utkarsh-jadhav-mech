@@ -1,8 +1,21 @@
 # Hi, I'm Utkarsh Jadhav 👋
 
-## Mechanical Design Engineer | CAD Designer
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-red)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Design-orange)
+![Arduino](https://img.shields.io/badge/Arduino-Programming-blue)
+![FEA](https://img.shields.io/badge/FEA-Simulation-green)
+![Mechanical Engineering](https://img.shields.io/badge/Mechanical-Engineering-darkgreen)
+![CATIA](https://img.shields.io/badge/CATIA-CAD-blue)
+![Creo](https://img.shields.io/badge/Creo-Design-orange)
+![3D Printing](https://img.shields.io/badge/3D_Printing-Prototype-purple)
 
-Passionate about mechanical product design, CAD modeling, engineering simulation, robotics, and 3D printing technologies.
+---
+
+## Mechanical Engineering Student | CAD Designer | FEA Enthusiast
+
+Passionate about mechanical product design, CAD modeling, engineering simulation, robotics, and additive manufacturing technologies.
+
+---
 
 ## 🚀 About Me
 
@@ -11,6 +24,8 @@ Passionate about mechanical product design, CAD modeling, engineering simulation
 - 📊 Experienced in CAD modeling and engineering simulation
 - 🤖 Interested in robotics and automation systems
 - 🖨 Enthusiastic about 3D printing and prototype development
+
+---
 
 ## 🧰 Technical Skills
 
@@ -34,6 +49,7 @@ Passionate about mechanical product design, CAD modeling, engineering simulation
 
 </p>
 
+---
 
 ## 📚 Education
 
@@ -42,6 +58,8 @@ Passionate about mechanical product design, CAD modeling, engineering simulation
 
 ### Bachelor of Engineering – Mechanical Engineering
 **Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati**
+
+---
 
 ## 💼 Internship Experience
 
@@ -54,13 +72,16 @@ Passionate about mechanical product design, CAD modeling, engineering simulation
 - Gained experience in CAD modeling and mechanical design
 - Learned additive manufacturing and prototype optimization techniques
 
-  
+---
+
 ## 📜 Certifications
 
 - Stress Management — IIT Kharagpur
 - MathWorks Certification
 - Energy Literacy Training
 - Internship Certification
+
+---
 
 ## 📈 Areas of Interest
 
@@ -71,11 +92,25 @@ Passionate about mechanical product design, CAD modeling, engineering simulation
 - Mechanical Automation  
 - Prototype Development 
 
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-jadhav-mech&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=utkarsh-jadhav-mech&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-jadhav-mech&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Connect With Me
 
 - 📧 Email: utkarshjadhav994@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/utkarsh-jadhav-mech
 - 💻 GitHub: https://github.com/utkarsh-jadhav-mech
+
+---
 
 ## ⚠ Note
 
