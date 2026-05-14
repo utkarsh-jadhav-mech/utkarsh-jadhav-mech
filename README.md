@@ -28,7 +28,6 @@ Passionate about mechanical product design, CAD modeling, engineering simulation
 - ANSYS APDL
 - Stress Analysis
 - Strain Analysis
-- Motion Analysis
 
 ### Robotics & Manufacturing
 - Robotic Arm Design
@@ -46,38 +45,6 @@ Passionate about mechanical product design, CAD modeling, engineering simulation
 **Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati**
 
 
-## 💼 Internship Experience
-
-### 3D Printing Internship  
-**Centre Of Excellence For Youth Development**  
-*Supported by Bharat Forge Ltd.*  
-
-- Worked on 3D printing and prototype development projects
-- Designed a 3D printed manual shearing machine using CAD software
-- Gained experience in CAD modeling and mechanical design
-- Learned additive manufacturing and prototype optimization techniques
-- Prepared technical documentation and project presentation
-
-
-## 📁 Featured Projects
-
-### 🚗 Automated Mobile Robotic Arm Vehicle
-Designed an automated robotic arm vehicle for cold storage operations using CAD modeling, robotics mechanisms, and structural simulation.
-
-### ✂ 3D Printed Manual Shearing Machine
-Developed a 3D printed manual shearing machine prototype using CAD design and additive manufacturing techniques.
-
-### 🤖 InMoov Robotic Hand
-Created a programmable robotic hand using 3D printing technology and servo-controlled mechanisms.
-
-## 📚 Research & Documentation
-
-- Conference Paper
-- Journal Publication
-- Design Calculations
-- Technical Documentation
-- Engineering Reports
-
   
 ## 📜 Certifications
 
@@ -85,17 +52,6 @@ Created a programmable robotic hand using 3D printing technology and servo-contr
 - MathWorks Certification
 - Energy Literacy Training
 - Internship Certification
-
-
-## 🛠 Software & Tools
-
-| Software | Purpose |
-|---|---|
-| SolidWorks | CAD & Simulation |
-| CATIA | Product Design |
-| Creo | Mechanical Modeling |
-| ANSYS | Engineering Analysis |
-| AutoCAD | Drafting |
 
 
 ## 📈 GitHub Goals
