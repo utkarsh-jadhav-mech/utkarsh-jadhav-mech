@@ -20,7 +20,7 @@ Passionate about mechanical product design, CAD modeling, engineering simulation
 ## 🚀 About Me
 
 - 🎓 Mechanical Engineering Student specialized in Automotive Product Design
-- - 🛠 Skilled in SolidWorks, CATIA, Creo, and ANSYS
+- 🛠 Skilled in SolidWorks, CATIA, Creo, and ANSYS
 - 📊 Experienced in CAD modeling and engineering simulation
 - 🤖 Interested in robotics and automation systems
 - 🖨 Enthusiastic about 3D printing and prototype development
