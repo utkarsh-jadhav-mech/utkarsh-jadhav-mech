@@ -94,11 +94,14 @@ Passionate about mechanical product design, CAD modeling, engineering simulation
 
 ---
 
-# 📊 GitHub Stats
 
+# 📊 GitHub Statistics
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=utkarsh-jadhav-mech&theme=tokyonight)
 
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-jadhav-mech&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-jadhav-mech&layout=compact&theme=tokyonight)
 
 ---
 
